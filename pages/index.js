@@ -1,7 +1,7 @@
 import { Fragment } from "react";
 import Wrapper from "../src/components/Wrapper";
 import Image from "next/image";
-import Instagram from "../src/instagram";
+import Instagram from "../src/Instagram";
 import { theme } from "../tailwind.config";
 
 const data = [
