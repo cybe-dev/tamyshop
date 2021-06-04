@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@responsive {
+  .w-640 {
+    width: 640px;
+  }
+  .w-768 {
+    width: 768px;
+  }
+  .w-1024 {
+    width: 1024px;
+  }
+  .w-1280 {
+    width: 1280px;
+  }
+}
+
+.display {
+  font-family: "Sigmar One", cursive;
+}
+
+.logo {
+  font-family: "Pacifico", cursive;
+}
